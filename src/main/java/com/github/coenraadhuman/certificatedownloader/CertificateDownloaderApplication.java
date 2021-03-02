@@ -57,7 +57,7 @@ public class CertificateDownloaderApplication {
   }
 
   public static void help() {
-    System.out.println("certificate-downloader: Downloads TLS/SSL certificates from servers.");
+    System.out.printf("certificate-downloader: A utility for downloading TLS/SSL certificates from servers.\n\n");
     System.out.println();
     System.out.format(
         "Syntax: java -jar certificate-downloader-[version] [-k -p <path> -P <passwd>] <host:port>");
