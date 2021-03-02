@@ -1,0 +1,8 @@
+Main-Class: com.waitwha.utils.CertDownload
+Name: com/waitwha
+Specification-Title: CertDownload
+Specification-Version: 1.0
+Specification-Vendor: Mike Duncan (mike.duncan@waitwha.com)
+Implementation-Title: com.waitwha
+Implementation-Version: build0
+Implementation-Vendor: Mike Duncan (mike.duncan@waitwha.com)
